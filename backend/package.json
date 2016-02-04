@@ -1,0 +1,17 @@
+{
+  "name": "cubestation",
+  "version": "1.0.0",
+  "description": "Use nodejs and express4 to support RESTful API for cubestation server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "glob": "^6.0.4",
+    "socket.io": "^1.4.4"
+  }
+}
